@@ -23,6 +23,7 @@
     "homepage": "https://github.com/andramalmen/dragndrop-projects#readme",
     "devDependencies": {
         "lite-server": "^2.5.4",
-        "prettier": "^2.1.1"
+        "prettier": "^2.1.1",
+        "typescript": "^4.0.2"
     }
 }
